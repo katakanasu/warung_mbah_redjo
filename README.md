@@ -3,7 +3,7 @@
 Project ini dibuat untuk memenuhi tugas mata kuliah pemrograman pada program studi **Informatika Kelas A**.
 
 ## 💡 Deskripsi
-Aplikasi ini dikembangkan untuk tujuan pembelajaran dan implementasi konsep pemrograman serta pengelolaan data.
+Website statis sederhana untuk promosi **Warung Mbah Redjo**.
 
 ## ⚙️ Teknologi
 - HTML, CSS, JavaScript  
