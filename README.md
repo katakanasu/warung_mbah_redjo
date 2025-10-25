@@ -11,8 +11,8 @@ Website statis sederhana untuk promosi **Warung Mbah Redjo**.
 - MySQL
 
 ## 🌏 Testing Website
-'''bash
    https://katakanasu.github.io/warung_mbah_redjo
+
 ## 🚀 Cara Menjalankan
 1. Clone repository  
    ```bash
