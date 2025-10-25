@@ -10,6 +10,9 @@ Website statis sederhana untuk promosi **Warung Mbah Redjo**.
 - Node.js / Express  
 - MySQL
 
+## 🌏 Testing Website
+'''bash
+   https://katakanasu.github.io/warung_mbah_redjo
 ## 🚀 Cara Menjalankan
 1. Clone repository  
    ```bash
