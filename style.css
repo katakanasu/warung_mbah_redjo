@@ -226,11 +226,11 @@ section {
 .section-title h2::after {
     content: "";
     position: absolute;
-    width: 60%;
+    width: 120%;
     height: 4px;
     background: var(--primary);
     bottom: -10px;
-    left: 20%;
+    left: -10%;
     border-radius: 2px;
 }
 
@@ -301,6 +301,7 @@ section {
     min-width: 100%;
     position: relative;
     overflow: hidden;
+    margin-bottom: -40px;
 }
 
 .slide img {
@@ -338,7 +339,7 @@ section {
 
 .slide-content p {
     font-size: 1rem;
-    opacity: 0.9;
+    opacity: 150 ;
     margin-bottom: 15px;
     line-height: 1.5;
 }
@@ -471,9 +472,9 @@ section {
 .about-content h3::after {
     content: "";
     position: absolute;
-    width: 40px;
-    height: 3px;
-    background: var(--primary);
+    width: 100%;
+    height: 1px;
+    background: rgba(194, 65, 12, 0.6);
     bottom: -8px;
     left: 0;
     border-radius: 2px;
@@ -483,6 +484,7 @@ section {
     line-height: 1.8;
     margin-bottom: 20px;
     color: var(--gray);
+    text-align: justify;
 }
 
 /* Album Foto Section */
